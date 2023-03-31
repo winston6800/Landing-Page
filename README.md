@@ -1,1 +1,2 @@
 # Landing-Page
+This file is to help people who do everything last minute. It doesn't make fun of them, instead it laughs with them and easily allows them to get this stuff done before the last minute deadline. 
